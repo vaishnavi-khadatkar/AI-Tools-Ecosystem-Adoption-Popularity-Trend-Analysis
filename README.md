@@ -85,10 +85,9 @@ AI-Tools-Ecosystem-Adoption-Popularity-Trend-Analysis/
 ├── global_ai_tools_dataset_2026.csv
 └── README.md
 
-📚 Key Learnings
+## 📚 Key Learnings
 
 Through this project, I gained practical experience in:
-
 Data Cleaning
 Data Preparation
 Dataset Merging
@@ -99,12 +98,14 @@ Extracting insights from datasets
 Creating meaningful visualizations
 Analyzing trends and patterns
 Working with multiple datasets
-🎯 Project Outcome
+
+
+## 🎯 Project Outcome
 
 This project helped me understand how Python can be used to clean, prepare, combine, analyze, and visualize data to extract meaningful insights.
 
 It also helped me gain practical experience in Exploratory Data Analysis (EDA), data visualization, trend analysis, and working with multiple datasets.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Vaishnavi Khadatkar
