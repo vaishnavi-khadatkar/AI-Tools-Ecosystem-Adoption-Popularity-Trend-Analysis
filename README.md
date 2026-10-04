@@ -79,7 +79,6 @@ These visualizations help identify patterns, comparisons, trends, and relationsh
 
 ## 📁 Project Files
 
-```text
 AI-Tools-Ecosystem-Adoption-Popularity-Trend-Analysis/
 │
 ├── AI_Tools_Ecosystem_Analysis.ipynb
