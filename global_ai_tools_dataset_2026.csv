@@ -1,0 +1,301 @@
+Tool_ID,Tool_Name,Category,Main_Function,Industry,Pricing_Model,Launch_Year,Popularity_Score,Last_Updated
+1,ChatGPT,Chatbot,AI conversation and text generation,Technology,Freemium,2022,98,2026
+2,Claude,Chatbot,AI assistant for writing and reasoning,Technology,Freemium,2023,92,2026
+3,Google Gemini,Chatbot,Multimodal AI assistant,Technology,Freemium,2023,94,2026
+4,Perplexity AI,Search AI,AI search engine assistant,Technology,Freemium,2022,90,2026
+5,Midjourney,Image Generation,Generate images from prompts,Design,Paid,2022,91,2026
+6,DALL-E,Image Generation,AI image generation from text,Design,Freemium,2021,92,2026
+7,Stable Diffusion,Image Generation,Open source image generator,Design,Free,2022,88,2026
+8,Runway ML,Video AI,AI video generation and editing,Media,Freemium,2021,89,2026
+9,Synthesia,Video AI,AI avatar video creation,Media,Paid,2020,88,2026
+10,Pictory,Video AI,Convert text into videos,Media,Freemium,2021,84,2026
+11,GitHub Copilot,Coding Assistant,AI code completion,Software Development,Paid,2021,95,2026
+12,Codeium,Coding Assistant,AI coding suggestions,Software Development,Free,2022,86,2026
+13,Tabnine,Coding Assistant,AI code prediction,Software Development,Freemium,2019,83,2026
+14,Replit Ghostwriter,Coding Assistant,AI programming helper,Software Development,Paid,2022,85,2026
+15,Hugging Face,AI Platform,Machine learning model hub,Technology,Free,2016,91,2026
+16,Kaggle AI,AI Platform,Data science and ML platform,Technology,Free,2010,90,2026
+17,Notion AI,Productivity,AI writing and productivity assistant,Productivity,Freemium,2023,88,2026
+18,Grammarly AI,Writing Assistant,Grammar and writing improvement,Education,Freemium,2017,93,2026
+19,QuillBot,Writing Assistant,Text paraphrasing and summarization,Education,Freemium,2018,90,2026
+20,Jasper AI,Marketing AI,AI marketing content generation,Marketing,Paid,2021,89,2026
+21,Copy.ai,Marketing AI,Marketing text generation,Marketing,Freemium,2020,87,2026
+22,Canva AI,Design AI,AI graphic design assistant,Design,Freemium,2023,92,2026
+23,Adobe Firefly,Design AI,AI creative design tools,Design,Freemium,2023,91,2026
+24,ElevenLabs,Voice AI,AI voice generation,Media,Freemium,2022,90,2026
+25,Murf AI,Voice AI,AI voiceover creation,Media,Paid,2021,87,2026
+26,DeepL,Translation AI,AI language translation,Education,Freemium,2017,92,2026
+27,Otter AI,Meeting AI,AI meeting transcription,Productivity,Freemium,2016,88,2026
+28,Descript,Audio AI,AI audio editing,Media,Freemium,2019,86,2026
+29,Luma AI,3D AI,AI 3D scene generation,Design,Freemium,2023,82,2026
+30,Leonardo AI,Image Generation,AI concept art generation,Design,Freemium,2023,87,2026
+31,AI_Tool_31,Chatbot,Chatbot automation and assistance,Technology,Free,2021,71,2026
+32,AI_Tool_32,Image Generation,Image Generation automation and assistance,Design,Freemium,2022,72,2026
+33,AI_Tool_33,Video AI,Video AI automation and assistance,Media,Paid,2023,73,2026
+34,AI_Tool_34,Voice AI,Voice AI automation and assistance,Education,Free,2024,74,2026
+35,AI_Tool_35,Coding Assistant,Coding Assistant automation and assistance,Marketing,Freemium,2025,75,2026
+36,AI_Tool_36,Marketing AI,Marketing AI automation and assistance,Productivity,Paid,2020,76,2026
+37,AI_Tool_37,Writing Assistant,Writing Assistant automation and assistance,Software Development,Free,2021,77,2026
+38,AI_Tool_38,Productivity,Productivity automation and assistance,Technology,Freemium,2022,78,2026
+39,AI_Tool_39,Research AI,Research AI automation and assistance,Design,Paid,2023,79,2026
+40,AI_Tool_40,Data Science AI,Data Science AI automation and assistance,Media,Free,2024,80,2026
+41,AI_Tool_41,Chatbot,Chatbot automation and assistance,Education,Freemium,2025,81,2026
+42,AI_Tool_42,Image Generation,Image Generation automation and assistance,Marketing,Paid,2020,82,2026
+43,AI_Tool_43,Video AI,Video AI automation and assistance,Productivity,Free,2021,83,2026
+44,AI_Tool_44,Voice AI,Voice AI automation and assistance,Software Development,Freemium,2022,84,2026
+45,AI_Tool_45,Coding Assistant,Coding Assistant automation and assistance,Technology,Paid,2023,85,2026
+46,AI_Tool_46,Marketing AI,Marketing AI automation and assistance,Design,Free,2024,86,2026
+47,AI_Tool_47,Writing Assistant,Writing Assistant automation and assistance,Media,Freemium,2025,87,2026
+48,AI_Tool_48,Productivity,Productivity automation and assistance,Education,Paid,2020,88,2026
+49,AI_Tool_49,Research AI,Research AI automation and assistance,Marketing,Free,2021,89,2026
+50,AI_Tool_50,Data Science AI,Data Science AI automation and assistance,Productivity,Freemium,2022,90,2026
+51,AI_Tool_51,Chatbot,Chatbot automation and assistance,Software Development,Paid,2023,91,2026
+52,AI_Tool_52,Image Generation,Image Generation automation and assistance,Technology,Free,2024,92,2026
+53,AI_Tool_53,Video AI,Video AI automation and assistance,Design,Freemium,2025,93,2026
+54,AI_Tool_54,Voice AI,Voice AI automation and assistance,Media,Paid,2020,94,2026
+55,AI_Tool_55,Coding Assistant,Coding Assistant automation and assistance,Education,Free,2021,95,2026
+56,AI_Tool_56,Marketing AI,Marketing AI automation and assistance,Marketing,Freemium,2022,96,2026
+57,AI_Tool_57,Writing Assistant,Writing Assistant automation and assistance,Productivity,Paid,2023,97,2026
+58,AI_Tool_58,Productivity,Productivity automation and assistance,Software Development,Free,2024,98,2026
+59,AI_Tool_59,Research AI,Research AI automation and assistance,Technology,Freemium,2025,99,2026
+60,AI_Tool_60,Data Science AI,Data Science AI automation and assistance,Design,Paid,2020,70,2026
+61,AI_Tool_61,Chatbot,Chatbot automation and assistance,Media,Free,2021,71,2026
+62,AI_Tool_62,Image Generation,Image Generation automation and assistance,Education,Freemium,2022,72,2026
+63,AI_Tool_63,Video AI,Video AI automation and assistance,Marketing,Paid,2023,73,2026
+64,AI_Tool_64,Voice AI,Voice AI automation and assistance,Productivity,Free,2024,74,2026
+65,AI_Tool_65,Coding Assistant,Coding Assistant automation and assistance,Software Development,Freemium,2025,75,2026
+66,AI_Tool_66,Marketing AI,Marketing AI automation and assistance,Technology,Paid,2020,76,2026
+67,AI_Tool_67,Writing Assistant,Writing Assistant automation and assistance,Design,Free,2021,77,2026
+68,AI_Tool_68,Productivity,Productivity automation and assistance,Media,Freemium,2022,78,2026
+69,AI_Tool_69,Research AI,Research AI automation and assistance,Education,Paid,2023,79,2026
+70,AI_Tool_70,Data Science AI,Data Science AI automation and assistance,Marketing,Free,2024,80,2026
+71,AI_Tool_71,Chatbot,Chatbot automation and assistance,Productivity,Freemium,2025,81,2026
+72,AI_Tool_72,Image Generation,Image Generation automation and assistance,Software Development,Paid,2020,82,2026
+73,AI_Tool_73,Video AI,Video AI automation and assistance,Technology,Free,2021,83,2026
+74,AI_Tool_74,Voice AI,Voice AI automation and assistance,Design,Freemium,2022,84,2026
+75,AI_Tool_75,Coding Assistant,Coding Assistant automation and assistance,Media,Paid,2023,85,2026
+76,AI_Tool_76,Marketing AI,Marketing AI automation and assistance,Education,Free,2024,86,2026
+77,AI_Tool_77,Writing Assistant,Writing Assistant automation and assistance,Marketing,Freemium,2025,87,2026
+78,AI_Tool_78,Productivity,Productivity automation and assistance,Productivity,Paid,2020,88,2026
+79,AI_Tool_79,Research AI,Research AI automation and assistance,Software Development,Free,2021,89,2026
+80,AI_Tool_80,Data Science AI,Data Science AI automation and assistance,Technology,Freemium,2022,90,2026
+81,AI_Tool_81,Chatbot,Chatbot automation and assistance,Design,Paid,2023,91,2026
+82,AI_Tool_82,Image Generation,Image Generation automation and assistance,Media,Free,2024,92,2026
+83,AI_Tool_83,Video AI,Video AI automation and assistance,Education,Freemium,2025,93,2026
+84,AI_Tool_84,Voice AI,Voice AI automation and assistance,Marketing,Paid,2020,94,2026
+85,AI_Tool_85,Coding Assistant,Coding Assistant automation and assistance,Productivity,Free,2021,95,2026
+86,AI_Tool_86,Marketing AI,Marketing AI automation and assistance,Software Development,Freemium,2022,96,2026
+87,AI_Tool_87,Writing Assistant,Writing Assistant automation and assistance,Technology,Paid,2023,97,2026
+88,AI_Tool_88,Productivity,Productivity automation and assistance,Design,Free,2024,98,2026
+89,AI_Tool_89,Research AI,Research AI automation and assistance,Media,Freemium,2025,99,2026
+90,AI_Tool_90,Data Science AI,Data Science AI automation and assistance,Education,Paid,2020,70,2026
+91,AI_Tool_91,Chatbot,Chatbot automation and assistance,Marketing,Free,2021,71,2026
+92,AI_Tool_92,Image Generation,Image Generation automation and assistance,Productivity,Freemium,2022,72,2026
+93,AI_Tool_93,Video AI,Video AI automation and assistance,Software Development,Paid,2023,73,2026
+94,AI_Tool_94,Voice AI,Voice AI automation and assistance,Technology,Free,2024,74,2026
+95,AI_Tool_95,Coding Assistant,Coding Assistant automation and assistance,Design,Freemium,2025,75,2026
+96,AI_Tool_96,Marketing AI,Marketing AI automation and assistance,Media,Paid,2020,76,2026
+97,AI_Tool_97,Writing Assistant,Writing Assistant automation and assistance,Education,Free,2021,77,2026
+98,AI_Tool_98,Productivity,Productivity automation and assistance,Marketing,Freemium,2022,78,2026
+99,AI_Tool_99,Research AI,Research AI automation and assistance,Productivity,Paid,2023,79,2026
+100,AI_Tool_100,Data Science AI,Data Science AI automation and assistance,Software Development,Free,2024,80,2026
+101,AI_Tool_101,Chatbot,Chatbot automation and assistance,Technology,Freemium,2025,81,2026
+102,AI_Tool_102,Image Generation,Image Generation automation and assistance,Design,Paid,2020,82,2026
+103,AI_Tool_103,Video AI,Video AI automation and assistance,Media,Free,2021,83,2026
+104,AI_Tool_104,Voice AI,Voice AI automation and assistance,Education,Freemium,2022,84,2026
+105,AI_Tool_105,Coding Assistant,Coding Assistant automation and assistance,Marketing,Paid,2023,85,2026
+106,AI_Tool_106,Marketing AI,Marketing AI automation and assistance,Productivity,Free,2024,86,2026
+107,AI_Tool_107,Writing Assistant,Writing Assistant automation and assistance,Software Development,Freemium,2025,87,2026
+108,AI_Tool_108,Productivity,Productivity automation and assistance,Technology,Paid,2020,88,2026
+109,AI_Tool_109,Research AI,Research AI automation and assistance,Design,Free,2021,89,2026
+110,AI_Tool_110,Data Science AI,Data Science AI automation and assistance,Media,Freemium,2022,90,2026
+111,AI_Tool_111,Chatbot,Chatbot automation and assistance,Education,Paid,2023,91,2026
+112,AI_Tool_112,Image Generation,Image Generation automation and assistance,Marketing,Free,2024,92,2026
+113,AI_Tool_113,Video AI,Video AI automation and assistance,Productivity,Freemium,2025,93,2026
+114,AI_Tool_114,Voice AI,Voice AI automation and assistance,Software Development,Paid,2020,94,2026
+115,AI_Tool_115,Coding Assistant,Coding Assistant automation and assistance,Technology,Free,2021,95,2026
+116,AI_Tool_116,Marketing AI,Marketing AI automation and assistance,Design,Freemium,2022,96,2026
+117,AI_Tool_117,Writing Assistant,Writing Assistant automation and assistance,Media,Paid,2023,97,2026
+118,AI_Tool_118,Productivity,Productivity automation and assistance,Education,Free,2024,98,2026
+119,AI_Tool_119,Research AI,Research AI automation and assistance,Marketing,Freemium,2025,99,2026
+120,AI_Tool_120,Data Science AI,Data Science AI automation and assistance,Productivity,Paid,2020,70,2026
+121,AI_Tool_121,Chatbot,Chatbot automation and assistance,Software Development,Free,2021,71,2026
+122,AI_Tool_122,Image Generation,Image Generation automation and assistance,Technology,Freemium,2022,72,2026
+123,AI_Tool_123,Video AI,Video AI automation and assistance,Design,Paid,2023,73,2026
+124,AI_Tool_124,Voice AI,Voice AI automation and assistance,Media,Free,2024,74,2026
+125,AI_Tool_125,Coding Assistant,Coding Assistant automation and assistance,Education,Freemium,2025,75,2026
+126,AI_Tool_126,Marketing AI,Marketing AI automation and assistance,Marketing,Paid,2020,76,2026
+127,AI_Tool_127,Writing Assistant,Writing Assistant automation and assistance,Productivity,Free,2021,77,2026
+128,AI_Tool_128,Productivity,Productivity automation and assistance,Software Development,Freemium,2022,78,2026
+129,AI_Tool_129,Research AI,Research AI automation and assistance,Technology,Paid,2023,79,2026
+130,AI_Tool_130,Data Science AI,Data Science AI automation and assistance,Design,Free,2024,80,2026
+131,AI_Tool_131,Chatbot,Chatbot automation and assistance,Media,Freemium,2025,81,2026
+132,AI_Tool_132,Image Generation,Image Generation automation and assistance,Education,Paid,2020,82,2026
+133,AI_Tool_133,Video AI,Video AI automation and assistance,Marketing,Free,2021,83,2026
+134,AI_Tool_134,Voice AI,Voice AI automation and assistance,Productivity,Freemium,2022,84,2026
+135,AI_Tool_135,Coding Assistant,Coding Assistant automation and assistance,Software Development,Paid,2023,85,2026
+136,AI_Tool_136,Marketing AI,Marketing AI automation and assistance,Technology,Free,2024,86,2026
+137,AI_Tool_137,Writing Assistant,Writing Assistant automation and assistance,Design,Freemium,2025,87,2026
+138,AI_Tool_138,Productivity,Productivity automation and assistance,Media,Paid,2020,88,2026
+139,AI_Tool_139,Research AI,Research AI automation and assistance,Education,Free,2021,89,2026
+140,AI_Tool_140,Data Science AI,Data Science AI automation and assistance,Marketing,Freemium,2022,90,2026
+141,AI_Tool_141,Chatbot,Chatbot automation and assistance,Productivity,Paid,2023,91,2026
+142,AI_Tool_142,Image Generation,Image Generation automation and assistance,Software Development,Free,2024,92,2026
+143,AI_Tool_143,Video AI,Video AI automation and assistance,Technology,Freemium,2025,93,2026
+144,AI_Tool_144,Voice AI,Voice AI automation and assistance,Design,Paid,2020,94,2026
+145,AI_Tool_145,Coding Assistant,Coding Assistant automation and assistance,Media,Free,2021,95,2026
+146,AI_Tool_146,Marketing AI,Marketing AI automation and assistance,Education,Freemium,2022,96,2026
+147,AI_Tool_147,Writing Assistant,Writing Assistant automation and assistance,Marketing,Paid,2023,97,2026
+148,AI_Tool_148,Productivity,Productivity automation and assistance,Productivity,Free,2024,98,2026
+149,AI_Tool_149,Research AI,Research AI automation and assistance,Software Development,Freemium,2025,99,2026
+150,AI_Tool_150,Data Science AI,Data Science AI automation and assistance,Technology,Paid,2020,70,2026
+151,AI_Tool_151,Chatbot,Chatbot automation and assistance,Design,Free,2021,71,2026
+152,AI_Tool_152,Image Generation,Image Generation automation and assistance,Media,Freemium,2022,72,2026
+153,AI_Tool_153,Video AI,Video AI automation and assistance,Education,Paid,2023,73,2026
+154,AI_Tool_154,Voice AI,Voice AI automation and assistance,Marketing,Free,2024,74,2026
+155,AI_Tool_155,Coding Assistant,Coding Assistant automation and assistance,Productivity,Freemium,2025,75,2026
+156,AI_Tool_156,Marketing AI,Marketing AI automation and assistance,Software Development,Paid,2020,76,2026
+157,AI_Tool_157,Writing Assistant,Writing Assistant automation and assistance,Technology,Free,2021,77,2026
+158,AI_Tool_158,Productivity,Productivity automation and assistance,Design,Freemium,2022,78,2026
+159,AI_Tool_159,Research AI,Research AI automation and assistance,Media,Paid,2023,79,2026
+160,AI_Tool_160,Data Science AI,Data Science AI automation and assistance,Education,Free,2024,80,2026
+161,AI_Tool_161,Chatbot,Chatbot automation and assistance,Marketing,Freemium,2025,81,2026
+162,AI_Tool_162,Image Generation,Image Generation automation and assistance,Productivity,Paid,2020,82,2026
+163,AI_Tool_163,Video AI,Video AI automation and assistance,Software Development,Free,2021,83,2026
+164,AI_Tool_164,Voice AI,Voice AI automation and assistance,Technology,Freemium,2022,84,2026
+165,AI_Tool_165,Coding Assistant,Coding Assistant automation and assistance,Design,Paid,2023,85,2026
+166,AI_Tool_166,Marketing AI,Marketing AI automation and assistance,Media,Free,2024,86,2026
+167,AI_Tool_167,Writing Assistant,Writing Assistant automation and assistance,Education,Freemium,2025,87,2026
+168,AI_Tool_168,Productivity,Productivity automation and assistance,Marketing,Paid,2020,88,2026
+169,AI_Tool_169,Research AI,Research AI automation and assistance,Productivity,Free,2021,89,2026
+170,AI_Tool_170,Data Science AI,Data Science AI automation and assistance,Software Development,Freemium,2022,90,2026
+171,AI_Tool_171,Chatbot,Chatbot automation and assistance,Technology,Paid,2023,91,2026
+172,AI_Tool_172,Image Generation,Image Generation automation and assistance,Design,Free,2024,92,2026
+173,AI_Tool_173,Video AI,Video AI automation and assistance,Media,Freemium,2025,93,2026
+174,AI_Tool_174,Voice AI,Voice AI automation and assistance,Education,Paid,2020,94,2026
+175,AI_Tool_175,Coding Assistant,Coding Assistant automation and assistance,Marketing,Free,2021,95,2026
+176,AI_Tool_176,Marketing AI,Marketing AI automation and assistance,Productivity,Freemium,2022,96,2026
+177,AI_Tool_177,Writing Assistant,Writing Assistant automation and assistance,Software Development,Paid,2023,97,2026
+178,AI_Tool_178,Productivity,Productivity automation and assistance,Technology,Free,2024,98,2026
+179,AI_Tool_179,Research AI,Research AI automation and assistance,Design,Freemium,2025,99,2026
+180,AI_Tool_180,Data Science AI,Data Science AI automation and assistance,Media,Paid,2020,70,2026
+181,AI_Tool_181,Chatbot,Chatbot automation and assistance,Education,Free,2021,71,2026
+182,AI_Tool_182,Image Generation,Image Generation automation and assistance,Marketing,Freemium,2022,72,2026
+183,AI_Tool_183,Video AI,Video AI automation and assistance,Productivity,Paid,2023,73,2026
+184,AI_Tool_184,Voice AI,Voice AI automation and assistance,Software Development,Free,2024,74,2026
+185,AI_Tool_185,Coding Assistant,Coding Assistant automation and assistance,Technology,Freemium,2025,75,2026
+186,AI_Tool_186,Marketing AI,Marketing AI automation and assistance,Design,Paid,2020,76,2026
+187,AI_Tool_187,Writing Assistant,Writing Assistant automation and assistance,Media,Free,2021,77,2026
+188,AI_Tool_188,Productivity,Productivity automation and assistance,Education,Freemium,2022,78,2026
+189,AI_Tool_189,Research AI,Research AI automation and assistance,Marketing,Paid,2023,79,2026
+190,AI_Tool_190,Data Science AI,Data Science AI automation and assistance,Productivity,Free,2024,80,2026
+191,AI_Tool_191,Chatbot,Chatbot automation and assistance,Software Development,Freemium,2025,81,2026
+192,AI_Tool_192,Image Generation,Image Generation automation and assistance,Technology,Paid,2020,82,2026
+193,AI_Tool_193,Video AI,Video AI automation and assistance,Design,Free,2021,83,2026
+194,AI_Tool_194,Voice AI,Voice AI automation and assistance,Media,Freemium,2022,84,2026
+195,AI_Tool_195,Coding Assistant,Coding Assistant automation and assistance,Education,Paid,2023,85,2026
+196,AI_Tool_196,Marketing AI,Marketing AI automation and assistance,Marketing,Free,2024,86,2026
+197,AI_Tool_197,Writing Assistant,Writing Assistant automation and assistance,Productivity,Freemium,2025,87,2026
+198,AI_Tool_198,Productivity,Productivity automation and assistance,Software Development,Paid,2020,88,2026
+199,AI_Tool_199,Research AI,Research AI automation and assistance,Technology,Free,2021,89,2026
+200,AI_Tool_200,Data Science AI,Data Science AI automation and assistance,Design,Freemium,2022,90,2026
+201,AI_Tool_201,Chatbot,Chatbot automation and assistance,Media,Paid,2023,91,2026
+202,AI_Tool_202,Image Generation,Image Generation automation and assistance,Education,Free,2024,92,2026
+203,AI_Tool_203,Video AI,Video AI automation and assistance,Marketing,Freemium,2025,93,2026
+204,AI_Tool_204,Voice AI,Voice AI automation and assistance,Productivity,Paid,2020,94,2026
+205,AI_Tool_205,Coding Assistant,Coding Assistant automation and assistance,Software Development,Free,2021,95,2026
+206,AI_Tool_206,Marketing AI,Marketing AI automation and assistance,Technology,Freemium,2022,96,2026
+207,AI_Tool_207,Writing Assistant,Writing Assistant automation and assistance,Design,Paid,2023,97,2026
+208,AI_Tool_208,Productivity,Productivity automation and assistance,Media,Free,2024,98,2026
+209,AI_Tool_209,Research AI,Research AI automation and assistance,Education,Freemium,2025,99,2026
+210,AI_Tool_210,Data Science AI,Data Science AI automation and assistance,Marketing,Paid,2020,70,2026
+211,AI_Tool_211,Chatbot,Chatbot automation and assistance,Productivity,Free,2021,71,2026
+212,AI_Tool_212,Image Generation,Image Generation automation and assistance,Software Development,Freemium,2022,72,2026
+213,AI_Tool_213,Video AI,Video AI automation and assistance,Technology,Paid,2023,73,2026
+214,AI_Tool_214,Voice AI,Voice AI automation and assistance,Design,Free,2024,74,2026
+215,AI_Tool_215,Coding Assistant,Coding Assistant automation and assistance,Media,Freemium,2025,75,2026
+216,AI_Tool_216,Marketing AI,Marketing AI automation and assistance,Education,Paid,2020,76,2026
+217,AI_Tool_217,Writing Assistant,Writing Assistant automation and assistance,Marketing,Free,2021,77,2026
+218,AI_Tool_218,Productivity,Productivity automation and assistance,Productivity,Freemium,2022,78,2026
+219,AI_Tool_219,Research AI,Research AI automation and assistance,Software Development,Paid,2023,79,2026
+220,AI_Tool_220,Data Science AI,Data Science AI automation and assistance,Technology,Free,2024,80,2026
+221,AI_Tool_221,Chatbot,Chatbot automation and assistance,Design,Freemium,2025,81,2026
+222,AI_Tool_222,Image Generation,Image Generation automation and assistance,Media,Paid,2020,82,2026
+223,AI_Tool_223,Video AI,Video AI automation and assistance,Education,Free,2021,83,2026
+224,AI_Tool_224,Voice AI,Voice AI automation and assistance,Marketing,Freemium,2022,84,2026
+225,AI_Tool_225,Coding Assistant,Coding Assistant automation and assistance,Productivity,Paid,2023,85,2026
+226,AI_Tool_226,Marketing AI,Marketing AI automation and assistance,Software Development,Free,2024,86,2026
+227,AI_Tool_227,Writing Assistant,Writing Assistant automation and assistance,Technology,Freemium,2025,87,2026
+228,AI_Tool_228,Productivity,Productivity automation and assistance,Design,Paid,2020,88,2026
+229,AI_Tool_229,Research AI,Research AI automation and assistance,Media,Free,2021,89,2026
+230,AI_Tool_230,Data Science AI,Data Science AI automation and assistance,Education,Freemium,2022,90,2026
+231,AI_Tool_231,Chatbot,Chatbot automation and assistance,Marketing,Paid,2023,91,2026
+232,AI_Tool_232,Image Generation,Image Generation automation and assistance,Productivity,Free,2024,92,2026
+233,AI_Tool_233,Video AI,Video AI automation and assistance,Software Development,Freemium,2025,93,2026
+234,AI_Tool_234,Voice AI,Voice AI automation and assistance,Technology,Paid,2020,94,2026
+235,AI_Tool_235,Coding Assistant,Coding Assistant automation and assistance,Design,Free,2021,95,2026
+236,AI_Tool_236,Marketing AI,Marketing AI automation and assistance,Media,Freemium,2022,96,2026
+237,AI_Tool_237,Writing Assistant,Writing Assistant automation and assistance,Education,Paid,2023,97,2026
+238,AI_Tool_238,Productivity,Productivity automation and assistance,Marketing,Free,2024,98,2026
+239,AI_Tool_239,Research AI,Research AI automation and assistance,Productivity,Freemium,2025,99,2026
+240,AI_Tool_240,Data Science AI,Data Science AI automation and assistance,Software Development,Paid,2020,70,2026
+241,AI_Tool_241,Chatbot,Chatbot automation and assistance,Technology,Free,2021,71,2026
+242,AI_Tool_242,Image Generation,Image Generation automation and assistance,Design,Freemium,2022,72,2026
+243,AI_Tool_243,Video AI,Video AI automation and assistance,Media,Paid,2023,73,2026
+244,AI_Tool_244,Voice AI,Voice AI automation and assistance,Education,Free,2024,74,2026
+245,AI_Tool_245,Coding Assistant,Coding Assistant automation and assistance,Marketing,Freemium,2025,75,2026
+246,AI_Tool_246,Marketing AI,Marketing AI automation and assistance,Productivity,Paid,2020,76,2026
+247,AI_Tool_247,Writing Assistant,Writing Assistant automation and assistance,Software Development,Free,2021,77,2026
+248,AI_Tool_248,Productivity,Productivity automation and assistance,Technology,Freemium,2022,78,2026
+249,AI_Tool_249,Research AI,Research AI automation and assistance,Design,Paid,2023,79,2026
+250,AI_Tool_250,Data Science AI,Data Science AI automation and assistance,Media,Free,2024,80,2026
+251,AI_Tool_251,Chatbot,Chatbot automation and assistance,Education,Freemium,2025,81,2026
+252,AI_Tool_252,Image Generation,Image Generation automation and assistance,Marketing,Paid,2020,82,2026
+253,AI_Tool_253,Video AI,Video AI automation and assistance,Productivity,Free,2021,83,2026
+254,AI_Tool_254,Voice AI,Voice AI automation and assistance,Software Development,Freemium,2022,84,2026
+255,AI_Tool_255,Coding Assistant,Coding Assistant automation and assistance,Technology,Paid,2023,85,2026
+256,AI_Tool_256,Marketing AI,Marketing AI automation and assistance,Design,Free,2024,86,2026
+257,AI_Tool_257,Writing Assistant,Writing Assistant automation and assistance,Media,Freemium,2025,87,2026
+258,AI_Tool_258,Productivity,Productivity automation and assistance,Education,Paid,2020,88,2026
+259,AI_Tool_259,Research AI,Research AI automation and assistance,Marketing,Free,2021,89,2026
+260,AI_Tool_260,Data Science AI,Data Science AI automation and assistance,Productivity,Freemium,2022,90,2026
+261,AI_Tool_261,Chatbot,Chatbot automation and assistance,Software Development,Paid,2023,91,2026
+262,AI_Tool_262,Image Generation,Image Generation automation and assistance,Technology,Free,2024,92,2026
+263,AI_Tool_263,Video AI,Video AI automation and assistance,Design,Freemium,2025,93,2026
+264,AI_Tool_264,Voice AI,Voice AI automation and assistance,Media,Paid,2020,94,2026
+265,AI_Tool_265,Coding Assistant,Coding Assistant automation and assistance,Education,Free,2021,95,2026
+266,AI_Tool_266,Marketing AI,Marketing AI automation and assistance,Marketing,Freemium,2022,96,2026
+267,AI_Tool_267,Writing Assistant,Writing Assistant automation and assistance,Productivity,Paid,2023,97,2026
+268,AI_Tool_268,Productivity,Productivity automation and assistance,Software Development,Free,2024,98,2026
+269,AI_Tool_269,Research AI,Research AI automation and assistance,Technology,Freemium,2025,99,2026
+270,AI_Tool_270,Data Science AI,Data Science AI automation and assistance,Design,Paid,2020,70,2026
+271,AI_Tool_271,Chatbot,Chatbot automation and assistance,Media,Free,2021,71,2026
+272,AI_Tool_272,Image Generation,Image Generation automation and assistance,Education,Freemium,2022,72,2026
+273,AI_Tool_273,Video AI,Video AI automation and assistance,Marketing,Paid,2023,73,2026
+274,AI_Tool_274,Voice AI,Voice AI automation and assistance,Productivity,Free,2024,74,2026
+275,AI_Tool_275,Coding Assistant,Coding Assistant automation and assistance,Software Development,Freemium,2025,75,2026
+276,AI_Tool_276,Marketing AI,Marketing AI automation and assistance,Technology,Paid,2020,76,2026
+277,AI_Tool_277,Writing Assistant,Writing Assistant automation and assistance,Design,Free,2021,77,2026
+278,AI_Tool_278,Productivity,Productivity automation and assistance,Media,Freemium,2022,78,2026
+279,AI_Tool_279,Research AI,Research AI automation and assistance,Education,Paid,2023,79,2026
+280,AI_Tool_280,Data Science AI,Data Science AI automation and assistance,Marketing,Free,2024,80,2026
+281,AI_Tool_281,Chatbot,Chatbot automation and assistance,Productivity,Freemium,2025,81,2026
+282,AI_Tool_282,Image Generation,Image Generation automation and assistance,Software Development,Paid,2020,82,2026
+283,AI_Tool_283,Video AI,Video AI automation and assistance,Technology,Free,2021,83,2026
+284,AI_Tool_284,Voice AI,Voice AI automation and assistance,Design,Freemium,2022,84,2026
+285,AI_Tool_285,Coding Assistant,Coding Assistant automation and assistance,Media,Paid,2023,85,2026
+286,AI_Tool_286,Marketing AI,Marketing AI automation and assistance,Education,Free,2024,86,2026
+287,AI_Tool_287,Writing Assistant,Writing Assistant automation and assistance,Marketing,Freemium,2025,87,2026
+288,AI_Tool_288,Productivity,Productivity automation and assistance,Productivity,Paid,2020,88,2026
+289,AI_Tool_289,Research AI,Research AI automation and assistance,Software Development,Free,2021,89,2026
+290,AI_Tool_290,Data Science AI,Data Science AI automation and assistance,Technology,Freemium,2022,90,2026
+291,AI_Tool_291,Chatbot,Chatbot automation and assistance,Design,Paid,2023,91,2026
+292,AI_Tool_292,Image Generation,Image Generation automation and assistance,Media,Free,2024,92,2026
+293,AI_Tool_293,Video AI,Video AI automation and assistance,Education,Freemium,2025,93,2026
+294,AI_Tool_294,Voice AI,Voice AI automation and assistance,Marketing,Paid,2020,94,2026
+295,AI_Tool_295,Coding Assistant,Coding Assistant automation and assistance,Productivity,Free,2021,95,2026
+296,AI_Tool_296,Marketing AI,Marketing AI automation and assistance,Software Development,Freemium,2022,96,2026
+297,AI_Tool_297,Writing Assistant,Writing Assistant automation and assistance,Technology,Paid,2023,97,2026
+298,AI_Tool_298,Productivity,Productivity automation and assistance,Design,Free,2024,98,2026
+299,AI_Tool_299,Research AI,Research AI automation and assistance,Media,Freemium,2025,99,2026
+300,AI_Tool_300,Data Science AI,Data Science AI automation and assistance,Education,Paid,2020,70,2026
